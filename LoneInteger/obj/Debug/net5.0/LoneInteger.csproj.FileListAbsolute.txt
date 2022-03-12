@@ -1,0 +1,16 @@
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\bin\Debug\net5.0\LoneInteger.exe
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\bin\Debug\net5.0\LoneInteger.deps.json
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\bin\Debug\net5.0\LoneInteger.runtimeconfig.json
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\bin\Debug\net5.0\LoneInteger.runtimeconfig.dev.json
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\bin\Debug\net5.0\LoneInteger.dll
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\bin\Debug\net5.0\ref\LoneInteger.dll
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\bin\Debug\net5.0\LoneInteger.pdb
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\obj\Debug\net5.0\LoneInteger.csproj.AssemblyReference.cache
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\obj\Debug\net5.0\LoneInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\obj\Debug\net5.0\LoneInteger.AssemblyInfoInputs.cache
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\obj\Debug\net5.0\LoneInteger.AssemblyInfo.cs
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\obj\Debug\net5.0\LoneInteger.csproj.CoreCompileInputs.cache
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\obj\Debug\net5.0\LoneInteger.dll
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\obj\Debug\net5.0\ref\LoneInteger.dll
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\obj\Debug\net5.0\LoneInteger.pdb
+C:\Users\jalal\source\repos\LoneInteger\LoneInteger\obj\Debug\net5.0\LoneInteger.genruntimeconfig.cache
